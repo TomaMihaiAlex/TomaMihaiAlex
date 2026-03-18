@@ -1,16 +1,15 @@
-## Hi there 👋
+# Toma Mihai-Alex 👨‍💻
 
-<!--
-**TomaMihaiAlex/TomaMihaiAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sunt student la facultatea de Automatica si Calculatoare, pasionat de programare. 
 
-Here are some ideas to get you started:
+Îmi place să găsesc idei pentru aplicații care simplifică viața de zi cu zi sau să iau proiecte existente care mi se par interesante și să le dezvolt propria mea abordare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Scop principla 📈:
+Caut să acumulez experiență lucrând la propriul meu portofoliu, explorând tehnologii noi și diverse implementări, folosind tool-uri AI pentru a accelera învățarea și dezvoltarea proiectelor. 
+
+Fun facts: 
+  •Imi plac jocurile de startegie 🎯
+  •Ador cafeaua ☕︎
+  •Hobby-uri: sport🏋🏽‍♀️, board games🎲, iesiri in oras🍹
+
+ 
