@@ -8,8 +8,8 @@ Scop principla 📈:
 Caut să acumulez experiență lucrând la propriul meu portofoliu, explorând tehnologii noi și diverse implementări, folosind tool-uri AI pentru a accelera învățarea și dezvoltarea proiectelor. 
 
 Fun facts: 
-#  •Imi plac jocurile de startegie 🎯
-#  •Ador cafeaua ☕︎
-#  •Hobby-uri: sport🏋🏽‍♀️, board games🎲, iesiri in oras🍹
+##  •Imi plac jocurile de startegie 🎯
+##  •Ador cafeaua ☕︎
+##  •Hobby-uri: sport🏋🏽‍♀️, board games🎲, iesiri in oras🍹
 
  
